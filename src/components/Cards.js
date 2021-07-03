@@ -27,21 +27,21 @@ function Cards() {
                     <ul className="cards_items">
                         <CardItems 
                         src="/images/img-3.jpg" 
-                        text="Explore the deep blue seas of Huawei!" 
+                        text="Explore the deep blue seas of Atlantis!" 
                         label="Adventure" 
                         path="/services">
                         </CardItems>
 
                         <CardItems 
-                        src="/images/img-3.jpg" 
-                        text="Explore the deep blue seas of Huawei!" 
+                        src="/images/img-4.jpg" 
+                        text="Unusual football matches!" 
                         label="Adventure" 
                         path="/services">
                         </CardItems>
 
                         <CardItems 
-                        src="/images/img-3.jpg" 
-                        text="Explore the deep blue seas of Huawei!" 
+                        src="/images/img-5.jpg" 
+                        text="Hotel like no others!" 
                         label="Adventure" 
                         path="/services">
                         </CardItems>

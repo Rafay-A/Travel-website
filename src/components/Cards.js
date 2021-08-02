@@ -16,7 +16,6 @@ function Cards() {
                         label="Adventure" 
                         path="/services">
                         </CardItems>
-
                         <CardItems 
                         src="/images/img-2.jpg" 
                         text="Travel through islands of Bali in private Cruise!" 
@@ -31,14 +30,12 @@ function Cards() {
                         label="Adventure" 
                         path="/services">
                         </CardItems>
-
                         <CardItems 
                         src="/images/img-4.jpg" 
                         text="Unusual football matches!" 
                         label="Adventure" 
                         path="/services">
                         </CardItems>
-
                         <CardItems 
                         src="/images/img-5.jpg" 
                         text="Hotel like no others!" 
